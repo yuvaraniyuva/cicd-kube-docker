@@ -7,7 +7,7 @@ pipeline {
     }
 */
     environment {
-        registry = "devopsyuvi/vprofileappkube"
+        registry = "devopsyuvi/vprofileapp"
         registryCredential = "dockerhub"
     }
 
